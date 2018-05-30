@@ -1,1 +1,2 @@
-# bravos
+# Bravos
+The main aim of this repository is to code into Python all the functions enclosed into Excel macros. The short term objective is to make a pilot by translating the **D2_ModeloIE** sheet into an independent module.
